@@ -8,7 +8,7 @@
 
 ## *Completion of the FOSSology UI using React.js and Next.js @ ![FOSSology](https://www.fossology.org/)*
 
-# Project Details
+# Project Details <img src="files/projectdetails.png" width="30"/>
 
 ## What's the project about?
 
@@ -21,7 +21,7 @@ API v2, transitioning away from the deprecated v1 implementation. The goal is
 to deliver a more stable, user-friendly, and maintainable UI for the FOSSology
 ecosystem.
   
-# Contributions
+# Contributions <img src="files/contributions.png" width="30"/>
 
 ## 1. Migration of FOSSology Frontend from React to Next.js
 
@@ -106,21 +106,20 @@ With the migration to **Next.js + Tailwind + Shadcn**, the UI was modernized wit
 ### Example 2: Home Page
 
 - **Before:** Bootstrap-based layout with inline CSS, limited flexibility.
-  ![alt text](homepage.png)
+  ![alt text](/files/homepage.png)
 - **After:** Tailwind-styled modular layout, aligned with Figma redesign.
-  ![alt text](newhomepage.png)
+  ![alt text](/files/newhomepage.png)
 
 ### Example 3: Upload a File Page
 
 * **Before:** Old layout with inconsistent UI elements and Bootstrap defaults.
-  ![alt text](homepage.png)
+  ![alt text](/files/uploadafilepage.png)
 * **After:** Clean and modern UI with Tailwind utilities and Shadcn components for accessibility.
-  ![alt text](homepage.png)
+  ![alt text](/files/newuploadafilepage.png)
 
 The migration modernized the entire frontend, reduced technical debt, and provided a scalable foundation for future development.
 
-# Deliverables
-
+# Deliverables <img src="files/deliverables.png" width="30"/>
 |                               Tasks                               | Planned |       Completed      |
 | :---------------------------------------------------------------: | :-----: | :------------------: |
 | Migration of Modern Stack (React 17 → 19, CRA → Vite, npm → pnpm) |   Yes   | :heavy\_check\_mark: |
@@ -133,13 +132,13 @@ The migration modernized the entire frontend, reduced technical debt, and provid
 |                  Developer Documentation Support                  |   Yes   | :heavy\_check\_mark: |
 
 
-# Future Plans
+# Future Plans <img src="files/futureplans.png" width="30"/>
 
 1. Implement all the redesigned pages with a modern UI using Tailwind CSS and Shadcn.
 2. Complete the migration from REST API v1 to REST API v2 for all endpoints.
 3. Implement and document the Storybook component library for reusable UI components.
 
-# Things I learned from Google Summer of Code
+# Things I learned from Google Summer of Code <img src="files/learnings.png" width="30"/>
 
 - Gained in-depth understanding of migrating a large-scale React application to **Next.js** with modern conventions.
 - Learned the differences between **Bootstrap** and **Tailwind CSS**, and why Tailwind with Shadcn is better suited for scalable and customizable UI design.
