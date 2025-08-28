@@ -23,7 +23,7 @@ ecosystem.
   
 # Contributions <img src="files/contributions.png" width="30"/>
 
-### The repository I worked on is: [FOSSologyUI](https://github.com/fossology/FOSSologyUI)
+### My work was focused on the [FOSSologyUI](https://github.com/fossology/FOSSologyUI) repository
 
 ## 1. Migration of FOSSology Frontend from React to Next.js
 
