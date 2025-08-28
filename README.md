@@ -6,7 +6,7 @@
 
 <a href = "https://summerofcode.withgoogle.com/programs/2025/projects/QJCf0exh">  ![Summer-of-code](/files/GSoC_header.png)</a>
 
-<h2><i>Completion of the FOSSology UI using React.js and Next.js @ <a href = "https://www.fossology.org/">FOSSology </a></i></h2>
+## *Completion of the FOSSology UI using React.js and Next.js @ [FOSSology](https://www.fossology.org/)*
 
 # Project Details <img src="files/projectdetails.png" width="30"/>
 
@@ -22,6 +22,8 @@ to deliver a more stable, user-friendly, and maintainable UI for the FOSSology
 ecosystem.
   
 # Contributions <img src="files/contributions.png" width="30"/>
+
+### The repository I worked on is: [FOSSologyUI](https://github.com/fossology/FOSSologyUI)
 
 ## 1. Migration of FOSSology Frontend from React to Next.js
 
