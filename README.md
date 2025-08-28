@@ -6,7 +6,7 @@
 
 <a href = "https://summerofcode.withgoogle.com/programs/2025/projects/QJCf0exh">  ![Summer-of-code](/files/GSoC_header.png)</a>
 
-## *Completion of the FOSSology UI using React.js and Next.js @ ![FOSSology](https://www.fossology.org/)*
+<h2><i>Completion of the FOSSology UI using React.js and Next.js @ <a href = "https://www.fossology.org/">FOSSology </a></i></h2>
 
 # Project Details <img src="files/projectdetails.png" width="30"/>
 
@@ -48,7 +48,7 @@ Replaced the legacy **Bootstrap/React-Bootstrap/Material UI** setup with a moder
 
 ## 3. Implementation of Redesigned Pages (Figma → Next.js)
 
-Collaborated with the designer to convert Figma mockups into a fully functional UI.
+Converted the Figma mockups from the ![FOSSology UX and UI Redesign](https://github.com/fossology/fossology/discussions/2908#discussioncomment-11912320) project into a fully functional UI.
 
 - Implemented redesigned **Header, Footer, and SubHeader** components.
 - Sequentially migrated and redesigned key pages:
