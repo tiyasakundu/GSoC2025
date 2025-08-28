@@ -128,15 +128,15 @@ The migration modernized the entire frontend, reduced technical debt, and provid
 |    UI/UX Restructuring (based on design prototypes & feedback)    |   Yes   | :heavy\_check\_mark: |
 |            REST API v2 Alignment (removal of v1 usage)            |   Yes   | In Progress |
 |                    Bug Fixes & Issue Resolution                   |   Yes   | :heavy\_check\_mark: |
-|                    Storybook Component Library                    |   Yes   | In Progress |
+|                    Storybook Component Library                    |   No    | In Progress |
 |                  Developer Documentation Support                  |   Yes   | :heavy\_check\_mark: |
 
 
 # Future Plans <img src="files/futureplans.png" width="30"/>
 
-1. Implement all the redesigned pages with a modern UI using Tailwind CSS and Shadcn.
+1. Complete implementing all the redesigned pages with a modern UI using Tailwind CSS and Shadcn.
 2. Complete the migration from REST API v1 to REST API v2 for all endpoints.
-3. Implement and document the Storybook component library for reusable UI components.
+3. Complete the implementation of the Storybook component library for reusable UI components.
 
 # Things I learned from Google Summer of Code <img src="files/learnings.png" width="30"/>
 
